@@ -127,4 +127,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Made with ❤️ using vanilla HTML, CSS & JavaScript</p>
+<p align="center">WAYMAKER</p>
